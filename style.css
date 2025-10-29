@@ -1,14 +1,18 @@
-body{
-    background:blue;
-    color white;
+body
+{
+background-image: url("gentlemen.webp");
+    color: rgba(234, 16, 172, 0.943);
+    color: rgb(217, 8, 214);
 }
 
-ol,ul{
-    color: yellow
+ol,ul
+{
+    color: rgb(240, 13, 240);
     font-size: 40px;
 }
 
-a{
+a
+{
     color: white;
     font-size: 40px;
     font-style: italic;
@@ -16,11 +20,8 @@ a{
     transition: all 0.6s;
 }
 
-a:hover{
-    color: red;
-}
+a:hover
+{
 
-img{
-    height: 200px;
-    width: 150px;
+    color: red;
 }
