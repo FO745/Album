@@ -1,19 +1,19 @@
 body
 {
 background-image: url("gentlemen.webp");
-    color: rgba(234, 16, 172, 0.943);
-    color: rgb(217, 8, 214);
+    color: rgba(245, 237, 243, 0.943);
+    color: rgb(227, 13, 67);
 }
 
 ol,ul
 {
-    color: rgb(240, 13, 240);
+    color: rgb(244, 14, 14);
     font-size: 40px;
 }
 
 a
 {
-    color: white;
+    color: rgb(230, 75, 9);
     font-size: 40px;
     font-style: italic;
     font-family: 'Courier New', Courrier, monospace;
@@ -23,5 +23,5 @@ a
 a:hover
 {
 
-    color: red;
+    color: rgb(15, 1, 1);
 }
