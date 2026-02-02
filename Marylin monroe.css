@@ -5,9 +5,15 @@ background-image: url("gentlemen.webp");
     color: rgb(227, 13, 67);
 }
 
-ol,ul
+ol,li 
 {
-    color: rgb(244, 14, 14);
+  font:
+    1rem "Fira Sans",
+    sans-serif;
+  margin-bottom: 0.5rem;
+} 
+
+{   color: rgb(244, 14, 14);
     font-size: 40px;
 }
 
@@ -22,6 +28,10 @@ a
 
 a:hover
 {
-
     color: rgb(15, 1, 1);
+}
+
+iframe
+{
+
 }
